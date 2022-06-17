@@ -1,5 +1,7 @@
 # Projekt pre [IVS](https://www.fit.vut.cz/study/course/14043/.cs)
 
+Kalkulačka se základními matematickými operacemi (+,-,*,/), faktoriálem, umocňováním s přirozenými exponenty (exponenty jsou přirozená čísla), obecnou odmocninou (obecná odmocnina) a jednou další funkcí.
+
 ### Prostredi
 ---------
 
